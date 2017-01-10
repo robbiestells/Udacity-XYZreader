@@ -23,4 +23,6 @@
     <color name="theme_accent">#03A9F4</color>
     <color name="ltgray">#BDBDBD</color>
     <color name="textColor">#212121</color>
+    <color name="whiteText">#ffffff</color>
+    <color name="cardBackground">#63212121</color>
 </resources>

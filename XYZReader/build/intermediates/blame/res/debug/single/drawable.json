@@ -128,6 +128,10 @@
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\notification_icon_background.xml"
     },
     {
+        "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
         "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },

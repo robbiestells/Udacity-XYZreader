@@ -4,24 +4,24 @@
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
         "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",

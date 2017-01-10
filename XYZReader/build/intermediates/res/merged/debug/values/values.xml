@@ -28,6 +28,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardBackground">#63212121</color>
     <color name="cardview_dark_background">#FF424242</color>
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
@@ -89,6 +90,7 @@
     <color name="theme_accent">#03A9F4</color>
     <color name="theme_primary">#4CAF50</color>
     <color name="theme_primary_dark">#388E3C</color>
+    <color name="whiteText">#ffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -469,6 +471,7 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="app_bar_elevation">4dp</dimen>
     <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_height">100dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -573,7 +576,7 @@
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
-    <integer name="list_column_count">2</integer>
+    <integer name="list_column_count">1</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>

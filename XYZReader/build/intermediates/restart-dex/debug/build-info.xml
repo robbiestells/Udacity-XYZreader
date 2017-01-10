@@ -5,7 +5,7 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="11100162093090"
+    timestamp="25340448047781"
     token="-3810791451014298984"
     verifier="COMPATIBLE" >
 
@@ -27,14 +27,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="9005184720870"
+        timestamp="24422163726661"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\rsteller\Desktop\ud867-master\feed\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="10221022867129"
+        timestamp="25307502421208"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="C:\Users\rsteller\Desktop\ud867-master\feed\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
@@ -50,7 +50,7 @@
             type="DEX" />
     </build>
     <build
-        timestamp="11100162093090"
+        timestamp="25340448047781"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\rsteller\Desktop\ud867-master\feed\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
