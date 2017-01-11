@@ -1,7 +1,0 @@
-#Wed Jan 11 10:14:24 EST 2017
-base.0=C\:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_73b2e40154dce894ed56d8fafeaa598e146428c3
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e3fa057349cff09d063ab56444b76dcce3b5b850\\classes.dex
-base.1=C\:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e3fa057349cff09d063ab56444b76dcce3b5b850
-file.0=C\:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_73b2e40154dce894ed56d8fafeaa598e146428c3\\classes.dex

@@ -141,15 +141,11 @@ public class ArticleListActivity extends ActionBarActivity implements
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    View image = (View) findViewById(thumbnail);
                     Intent intent = new Intent(Intent.ACTION_VIEW,
                             ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition())));
-                    // Pass data object in the bundle and populate details activity.
                     Bundle options = ActivityOptions.makeSceneTransitionAnimation(ArticleListActivity.this).toBundle();
                     startActivity(intent, options);
 
-//                    startActivity(new Intent(Intent.ACTION_VIEW,
-//                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
             return vh;
