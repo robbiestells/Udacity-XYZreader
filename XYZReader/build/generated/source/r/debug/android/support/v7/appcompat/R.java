@@ -247,11 +247,11 @@ public final class R {
 		public static final int windowNoTitle = 0x7f010031;
 	}
 	public static final class bool {
-		public static final int abc_action_bar_embed_tabs = 0x7f090000;
-		public static final int abc_allow_stacked_button_bar = 0x7f090002;
-		public static final int abc_config_actionMenuItemAllCaps = 0x7f090003;
-		public static final int abc_config_closeDialogWhenTouchOutside = 0x7f090004;
-		public static final int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f090005;
+		public static final int abc_action_bar_embed_tabs = 0x7f0a0000;
+		public static final int abc_allow_stacked_button_bar = 0x7f0a0002;
+		public static final int abc_config_actionMenuItemAllCaps = 0x7f0a0003;
+		public static final int abc_config_closeDialogWhenTouchOutside = 0x7f0a0004;
+		public static final int abc_config_showMenuShortcutsWhenKeyboardPresent = 0x7f0a0005;
 	}
 	public static final class color {
 		public static final int abc_background_cache_hint_selector_material_dark = 0x7f0c0051;
@@ -641,10 +641,10 @@ public final class R {
 		public static final int wrap_content = 0x7f0d0022;
 	}
 	public static final class integer {
-		public static final int abc_config_activityDefaultDur = 0x7f0b0002;
-		public static final int abc_config_activityShortDur = 0x7f0b0003;
-		public static final int cancel_button_image_alpha = 0x7f0b0006;
-		public static final int status_bar_notification_info_maxnum = 0x7f0b0007;
+		public static final int abc_config_activityDefaultDur = 0x7f090002;
+		public static final int abc_config_activityShortDur = 0x7f090003;
+		public static final int cancel_button_image_alpha = 0x7f090006;
+		public static final int status_bar_notification_info_maxnum = 0x7f090007;
 	}
 	public static final class layout {
 		public static final int abc_action_bar_title_item = 0x7f040000;
