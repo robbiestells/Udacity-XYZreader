@@ -815,14 +815,7 @@
                     "endOffset": 4559
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 705,
-                        "endColumn": 51,
-                        "endOffset": 752
-                    }
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -7021,48 +7014,43 @@
                     "startLine": 1945,
                     "startColumn": 4,
                     "startOffset": 138230,
-                    "endLine": 1949,
-                    "endColumn": 12,
-                    "endOffset": 138512
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1950,
-                    "startColumn": 4,
-                    "startOffset": 138517,
                     "endLine": 1952,
                     "endColumn": 12,
-                    "endOffset": 138641
+                    "endOffset": 138750
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1226
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 1953,
                     "startColumn": 4,
-                    "startOffset": 138646,
+                    "startOffset": 138755,
                     "endLine": 1955,
                     "endColumn": 12,
-                    "endOffset": 138795
+                    "endOffset": 138879
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values\\styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1956,
                     "startColumn": 4,
-                    "startOffset": 138800,
-                    "endLine": 1960,
+                    "startOffset": 138884,
+                    "endLine": 1958,
                     "endColumn": 12,
-                    "endOffset": 139153
+                    "endOffset": 139033
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -7070,12 +7058,12 @@
             },
             {
                 "to": {
-                    "startLine": 1961,
+                    "startLine": 1959,
                     "startColumn": 4,
-                    "startOffset": 139158,
+                    "startOffset": 139038,
                     "endLine": 1963,
                     "endColumn": 12,
-                    "endOffset": 139320
+                    "endOffset": 139391
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -7085,10 +7073,10 @@
                 "to": {
                     "startLine": 1964,
                     "startColumn": 4,
-                    "startOffset": 139325,
-                    "endLine": 1968,
+                    "startOffset": 139396,
+                    "endLine": 1966,
                     "endColumn": 12,
-                    "endOffset": 139690
+                    "endOffset": 139558
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -7096,12 +7084,12 @@
             },
             {
                 "to": {
-                    "startLine": 1969,
+                    "startLine": 1967,
                     "startColumn": 4,
-                    "startOffset": 139695,
-                    "endLine": 1972,
+                    "startOffset": 139563,
+                    "endLine": 1971,
                     "endColumn": 12,
-                    "endOffset": 139850
+                    "endOffset": 139928
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -7109,12 +7097,12 @@
             },
             {
                 "to": {
-                    "startLine": 1973,
+                    "startLine": 1972,
                     "startColumn": 4,
-                    "startOffset": 139855,
-                    "endLine": 1976,
+                    "startOffset": 139933,
+                    "endLine": 1975,
                     "endColumn": 12,
-                    "endOffset": 140004
+                    "endOffset": 140088
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -7122,47 +7110,24 @@
             },
             {
                 "to": {
-                    "startLine": 1977,
+                    "startLine": 1976,
                     "startColumn": 4,
-                    "startOffset": 140009,
-                    "endColumn": 79,
-                    "endOffset": 140084
+                    "startOffset": 140093,
+                    "endLine": 1979,
+                    "endColumn": 12,
+                    "endOffset": 140242
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1978,
-                    "startColumn": 4,
-                    "startOffset": 140089,
-                    "endColumn": 99,
-                    "endOffset": 140184
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1979,
-                    "startColumn": 4,
-                    "startOffset": 140189,
-                    "endColumn": 89,
-                    "endOffset": 140274
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1980,
                     "startColumn": 4,
-                    "startOffset": 140279,
-                    "endColumn": 109,
-                    "endOffset": 140384
+                    "startOffset": 140247,
+                    "endColumn": 79,
+                    "endOffset": 140322
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7172,9 +7137,9 @@
                 "to": {
                     "startLine": 1981,
                     "startColumn": 4,
-                    "startOffset": 140389,
-                    "endColumn": 93,
-                    "endOffset": 140478
+                    "startOffset": 140327,
+                    "endColumn": 99,
+                    "endOffset": 140422
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7184,9 +7149,9 @@
                 "to": {
                     "startLine": 1982,
                     "startColumn": 4,
-                    "startOffset": 140483,
-                    "endColumn": 105,
-                    "endOffset": 140584
+                    "startOffset": 140427,
+                    "endColumn": 89,
+                    "endOffset": 140512
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7196,9 +7161,9 @@
                 "to": {
                     "startLine": 1983,
                     "startColumn": 4,
-                    "startOffset": 140589,
-                    "endColumn": 91,
-                    "endOffset": 140676
+                    "startOffset": 140517,
+                    "endColumn": 109,
+                    "endOffset": 140622
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7208,10 +7173,21 @@
                 "to": {
                     "startLine": 1984,
                     "startColumn": 4,
-                    "startOffset": 140681,
-                    "endLine": 1985,
-                    "endColumn": 12,
-                    "endOffset": 140776
+                    "startOffset": 140627,
+                    "endColumn": 93,
+                    "endOffset": 140716
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1985,
+                    "startColumn": 4,
+                    "startOffset": 140721,
+                    "endColumn": 105,
+                    "endOffset": 140822
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7221,10 +7197,9 @@
                 "to": {
                     "startLine": 1986,
                     "startColumn": 4,
-                    "startOffset": 140781,
-                    "endLine": 1987,
-                    "endColumn": 12,
-                    "endOffset": 140888
+                    "startOffset": 140827,
+                    "endColumn": 91,
+                    "endOffset": 140914
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7232,12 +7207,12 @@
             },
             {
                 "to": {
-                    "startLine": 1988,
+                    "startLine": 1987,
                     "startColumn": 4,
-                    "startOffset": 140893,
-                    "endLine": 1989,
+                    "startOffset": 140919,
+                    "endLine": 1988,
                     "endColumn": 12,
-                    "endOffset": 141002
+                    "endOffset": 141014
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7245,12 +7220,12 @@
             },
             {
                 "to": {
-                    "startLine": 1990,
+                    "startLine": 1989,
                     "startColumn": 4,
-                    "startOffset": 141007,
-                    "endLine": 1991,
+                    "startOffset": 141019,
+                    "endLine": 1990,
                     "endColumn": 12,
-                    "endOffset": 141118
+                    "endOffset": 141126
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7258,12 +7233,12 @@
             },
             {
                 "to": {
-                    "startLine": 1992,
+                    "startLine": 1991,
                     "startColumn": 4,
-                    "startOffset": 141123,
-                    "endLine": 1993,
+                    "startOffset": 141131,
+                    "endLine": 1992,
                     "endColumn": 12,
-                    "endOffset": 141234
+                    "endOffset": 141240
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7271,11 +7246,12 @@
             },
             {
                 "to": {
-                    "startLine": 1994,
+                    "startLine": 1993,
                     "startColumn": 4,
-                    "startOffset": 141239,
-                    "endColumn": 93,
-                    "endOffset": 141328
+                    "startOffset": 141245,
+                    "endLine": 1994,
+                    "endColumn": 12,
+                    "endOffset": 141356
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7285,21 +7261,10 @@
                 "to": {
                     "startLine": 1995,
                     "startColumn": 4,
-                    "startOffset": 141333,
-                    "endColumn": 113,
-                    "endOffset": 141442
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1996,
-                    "startColumn": 4,
-                    "startOffset": 141447,
-                    "endColumn": 111,
-                    "endOffset": 141554
+                    "startOffset": 141361,
+                    "endLine": 1996,
+                    "endColumn": 12,
+                    "endOffset": 141472
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7309,10 +7274,21 @@
                 "to": {
                     "startLine": 1997,
                     "startColumn": 4,
-                    "startOffset": 141559,
-                    "endLine": 1998,
-                    "endColumn": 12,
-                    "endOffset": 141656
+                    "startOffset": 141477,
+                    "endColumn": 93,
+                    "endOffset": 141566
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1998,
+                    "startColumn": 4,
+                    "startOffset": 141571,
+                    "endColumn": 113,
+                    "endOffset": 141680
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7322,10 +7298,9 @@
                 "to": {
                     "startLine": 1999,
                     "startColumn": 4,
-                    "startOffset": 141661,
-                    "endLine": 2000,
-                    "endColumn": 12,
-                    "endOffset": 141776
+                    "startOffset": 141685,
+                    "endColumn": 111,
+                    "endOffset": 141792
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7333,12 +7308,12 @@
             },
             {
                 "to": {
-                    "startLine": 2001,
+                    "startLine": 2000,
                     "startColumn": 4,
-                    "startOffset": 141781,
-                    "endLine": 2002,
+                    "startOffset": 141797,
+                    "endLine": 2001,
                     "endColumn": 12,
-                    "endOffset": 141898
+                    "endOffset": 141894
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7346,11 +7321,12 @@
             },
             {
                 "to": {
-                    "startLine": 2003,
+                    "startLine": 2002,
                     "startColumn": 4,
-                    "startOffset": 141903,
-                    "endColumn": 81,
-                    "endOffset": 141980
+                    "startOffset": 141899,
+                    "endLine": 2003,
+                    "endColumn": 12,
+                    "endOffset": 142014
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7360,21 +7336,10 @@
                 "to": {
                     "startLine": 2004,
                     "startColumn": 4,
-                    "startOffset": 141985,
-                    "endColumn": 103,
-                    "endOffset": 142084
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2005,
-                    "startColumn": 4,
-                    "startOffset": 142089,
-                    "endColumn": 119,
-                    "endOffset": 142204
+                    "startOffset": 142019,
+                    "endLine": 2005,
+                    "endColumn": 12,
+                    "endOffset": 142136
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7384,9 +7349,9 @@
                 "to": {
                     "startLine": 2006,
                     "startColumn": 4,
-                    "startOffset": 142209,
-                    "endColumn": 125,
-                    "endOffset": 142330
+                    "startOffset": 142141,
+                    "endColumn": 81,
+                    "endOffset": 142218
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7396,9 +7361,9 @@
                 "to": {
                     "startLine": 2007,
                     "startColumn": 4,
-                    "startOffset": 142335,
-                    "endColumn": 97,
-                    "endOffset": 142428
+                    "startOffset": 142223,
+                    "endColumn": 103,
+                    "endOffset": 142322
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7408,9 +7373,9 @@
                 "to": {
                     "startLine": 2008,
                     "startColumn": 4,
-                    "startOffset": 142433,
-                    "endColumn": 93,
-                    "endOffset": 142522
+                    "startOffset": 142327,
+                    "endColumn": 119,
+                    "endOffset": 142442
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7420,9 +7385,9 @@
                 "to": {
                     "startLine": 2009,
                     "startColumn": 4,
-                    "startOffset": 142527,
-                    "endColumn": 87,
-                    "endOffset": 142610
+                    "startOffset": 142447,
+                    "endColumn": 125,
+                    "endOffset": 142568
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7432,9 +7397,9 @@
                 "to": {
                     "startLine": 2010,
                     "startColumn": 4,
-                    "startOffset": 142615,
-                    "endColumn": 111,
-                    "endOffset": 142722
+                    "startOffset": 142573,
+                    "endColumn": 97,
+                    "endOffset": 142666
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7444,9 +7409,9 @@
                 "to": {
                     "startLine": 2011,
                     "startColumn": 4,
-                    "startOffset": 142727,
-                    "endColumn": 115,
-                    "endOffset": 142838
+                    "startOffset": 142671,
+                    "endColumn": 93,
+                    "endOffset": 142760
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7456,9 +7421,9 @@
                 "to": {
                     "startLine": 2012,
                     "startColumn": 4,
-                    "startOffset": 142843,
-                    "endColumn": 121,
-                    "endOffset": 142960
+                    "startOffset": 142765,
+                    "endColumn": 87,
+                    "endOffset": 142848
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7468,9 +7433,9 @@
                 "to": {
                     "startLine": 2013,
                     "startColumn": 4,
-                    "startOffset": 142965,
+                    "startOffset": 142853,
                     "endColumn": 111,
-                    "endOffset": 143072
+                    "endOffset": 142960
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7480,10 +7445,33 @@
                 "to": {
                     "startLine": 2014,
                     "startColumn": 4,
-                    "startOffset": 143077,
-                    "endLine": 2016,
-                    "endColumn": 12,
-                    "endOffset": 143247
+                    "startOffset": 142965,
+                    "endColumn": 115,
+                    "endOffset": 143076
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2015,
+                    "startColumn": 4,
+                    "startOffset": 143081,
+                    "endColumn": 121,
+                    "endOffset": 143198
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2016,
+                    "startColumn": 4,
+                    "startOffset": 143203,
+                    "endColumn": 111,
+                    "endOffset": 143310
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7493,33 +7481,10 @@
                 "to": {
                     "startLine": 2017,
                     "startColumn": 4,
-                    "startOffset": 143252,
-                    "endColumn": 115,
-                    "endOffset": 143363
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2018,
-                    "startColumn": 4,
-                    "startOffset": 143368,
-                    "endColumn": 85,
-                    "endOffset": 143449
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2019,
-                    "startColumn": 4,
-                    "startOffset": 143454,
-                    "endColumn": 91,
-                    "endOffset": 143541
+                    "startOffset": 143315,
+                    "endLine": 2019,
+                    "endColumn": 12,
+                    "endOffset": 143485
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7529,10 +7494,21 @@
                 "to": {
                     "startLine": 2020,
                     "startColumn": 4,
-                    "startOffset": 143546,
-                    "endLine": 2021,
-                    "endColumn": 12,
-                    "endOffset": 143653
+                    "startOffset": 143490,
+                    "endColumn": 115,
+                    "endOffset": 143601
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2021,
+                    "startColumn": 4,
+                    "startOffset": 143606,
+                    "endColumn": 85,
+                    "endOffset": 143687
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7542,10 +7518,9 @@
                 "to": {
                     "startLine": 2022,
                     "startColumn": 4,
-                    "startOffset": 143658,
-                    "endLine": 2023,
-                    "endColumn": 12,
-                    "endOffset": 143777
+                    "startOffset": 143692,
+                    "endColumn": 91,
+                    "endOffset": 143779
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7553,11 +7528,12 @@
             },
             {
                 "to": {
-                    "startLine": 2024,
+                    "startLine": 2023,
                     "startColumn": 4,
-                    "startOffset": 143782,
-                    "endColumn": 66,
-                    "endOffset": 143844
+                    "startOffset": 143784,
+                    "endLine": 2024,
+                    "endColumn": 12,
+                    "endOffset": 143891
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7567,10 +7543,10 @@
                 "to": {
                     "startLine": 2025,
                     "startColumn": 4,
-                    "startOffset": 143849,
+                    "startOffset": 143896,
                     "endLine": 2026,
                     "endColumn": 12,
-                    "endOffset": 143970
+                    "endOffset": 144015
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7580,9 +7556,9 @@
                 "to": {
                     "startLine": 2027,
                     "startColumn": 4,
-                    "startOffset": 143975,
-                    "endColumn": 67,
-                    "endOffset": 144038
+                    "startOffset": 144020,
+                    "endColumn": 66,
+                    "endOffset": 144082
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7592,10 +7568,10 @@
                 "to": {
                     "startLine": 2028,
                     "startColumn": 4,
-                    "startOffset": 144043,
+                    "startOffset": 144087,
                     "endLine": 2029,
                     "endColumn": 12,
-                    "endOffset": 144166
+                    "endOffset": 144208
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7605,10 +7581,9 @@
                 "to": {
                     "startLine": 2030,
                     "startColumn": 4,
-                    "startOffset": 144171,
-                    "endLine": 2031,
-                    "endColumn": 12,
-                    "endOffset": 144310
+                    "startOffset": 144213,
+                    "endColumn": 67,
+                    "endOffset": 144276
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7616,12 +7591,12 @@
             },
             {
                 "to": {
-                    "startLine": 2032,
+                    "startLine": 2031,
                     "startColumn": 4,
-                    "startOffset": 144315,
-                    "endLine": 2033,
+                    "startOffset": 144281,
+                    "endLine": 2032,
                     "endColumn": 12,
-                    "endOffset": 144438
+                    "endOffset": 144404
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7629,11 +7604,12 @@
             },
             {
                 "to": {
-                    "startLine": 2034,
+                    "startLine": 2033,
                     "startColumn": 4,
-                    "startOffset": 144443,
-                    "endColumn": 68,
-                    "endOffset": 144507
+                    "startOffset": 144409,
+                    "endLine": 2034,
+                    "endColumn": 12,
+                    "endOffset": 144548
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7643,21 +7619,10 @@
                 "to": {
                     "startLine": 2035,
                     "startColumn": 4,
-                    "startOffset": 144512,
-                    "endColumn": 94,
-                    "endOffset": 144602
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2036,
-                    "startColumn": 4,
-                    "startOffset": 144607,
-                    "endColumn": 114,
-                    "endOffset": 144717
+                    "startOffset": 144553,
+                    "endLine": 2036,
+                    "endColumn": 12,
+                    "endOffset": 144676
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7667,9 +7632,9 @@
                 "to": {
                     "startLine": 2037,
                     "startColumn": 4,
-                    "startOffset": 144722,
-                    "endColumn": 112,
-                    "endOffset": 144830
+                    "startOffset": 144681,
+                    "endColumn": 68,
+                    "endOffset": 144745
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7679,9 +7644,9 @@
                 "to": {
                     "startLine": 2038,
                     "startColumn": 4,
-                    "startOffset": 144835,
-                    "endColumn": 98,
-                    "endOffset": 144929
+                    "startOffset": 144750,
+                    "endColumn": 94,
+                    "endOffset": 144840
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7691,9 +7656,9 @@
                 "to": {
                     "startLine": 2039,
                     "startColumn": 4,
-                    "startOffset": 144934,
-                    "endColumn": 108,
-                    "endOffset": 145038
+                    "startOffset": 144845,
+                    "endColumn": 114,
+                    "endOffset": 144955
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7703,9 +7668,9 @@
                 "to": {
                     "startLine": 2040,
                     "startColumn": 4,
-                    "startOffset": 145043,
-                    "endColumn": 110,
-                    "endOffset": 145149
+                    "startOffset": 144960,
+                    "endColumn": 112,
+                    "endOffset": 145068
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7715,9 +7680,9 @@
                 "to": {
                     "startLine": 2041,
                     "startColumn": 4,
-                    "startOffset": 145154,
-                    "endColumn": 110,
-                    "endOffset": 145260
+                    "startOffset": 145073,
+                    "endColumn": 98,
+                    "endOffset": 145167
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7727,9 +7692,9 @@
                 "to": {
                     "startLine": 2042,
                     "startColumn": 4,
-                    "startOffset": 145265,
-                    "endColumn": 100,
-                    "endOffset": 145361
+                    "startOffset": 145172,
+                    "endColumn": 108,
+                    "endOffset": 145276
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7739,9 +7704,9 @@
                 "to": {
                     "startLine": 2043,
                     "startColumn": 4,
-                    "startOffset": 145366,
-                    "endColumn": 104,
-                    "endOffset": 145466
+                    "startOffset": 145281,
+                    "endColumn": 110,
+                    "endOffset": 145387
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7751,9 +7716,9 @@
                 "to": {
                     "startLine": 2044,
                     "startColumn": 4,
-                    "startOffset": 145471,
-                    "endColumn": 99,
-                    "endOffset": 145566
+                    "startOffset": 145392,
+                    "endColumn": 110,
+                    "endOffset": 145498
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7763,10 +7728,21 @@
                 "to": {
                     "startLine": 2045,
                     "startColumn": 4,
-                    "startOffset": 145571,
-                    "endLine": 2046,
-                    "endColumn": 12,
-                    "endOffset": 145696
+                    "startOffset": 145503,
+                    "endColumn": 100,
+                    "endOffset": 145599
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2046,
+                    "startColumn": 4,
+                    "startOffset": 145604,
+                    "endColumn": 104,
+                    "endOffset": 145704
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7776,9 +7752,9 @@
                 "to": {
                     "startLine": 2047,
                     "startColumn": 4,
-                    "startOffset": 145701,
-                    "endColumn": 90,
-                    "endOffset": 145787
+                    "startOffset": 145709,
+                    "endColumn": 99,
+                    "endOffset": 145804
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7788,21 +7764,10 @@
                 "to": {
                     "startLine": 2048,
                     "startColumn": 4,
-                    "startOffset": 145792,
-                    "endColumn": 122,
-                    "endOffset": 145910
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2049,
-                    "startColumn": 4,
-                    "startOffset": 145915,
-                    "endColumn": 93,
-                    "endOffset": 146004
+                    "startOffset": 145809,
+                    "endLine": 2049,
+                    "endColumn": 12,
+                    "endOffset": 145934
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7812,10 +7777,21 @@
                 "to": {
                     "startLine": 2050,
                     "startColumn": 4,
-                    "startOffset": 146009,
-                    "endLine": 2051,
-                    "endColumn": 12,
-                    "endOffset": 146116
+                    "startOffset": 145939,
+                    "endColumn": 90,
+                    "endOffset": 146025
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2051,
+                    "startColumn": 4,
+                    "startOffset": 146030,
+                    "endColumn": 122,
+                    "endOffset": 146148
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7825,9 +7801,9 @@
                 "to": {
                     "startLine": 2052,
                     "startColumn": 4,
-                    "startOffset": 146121,
-                    "endColumn": 85,
-                    "endOffset": 146202
+                    "startOffset": 146153,
+                    "endColumn": 93,
+                    "endOffset": 146242
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7837,21 +7813,10 @@
                 "to": {
                     "startLine": 2053,
                     "startColumn": 4,
-                    "startOffset": 146207,
-                    "endColumn": 103,
-                    "endOffset": 146306
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2054,
-                    "startColumn": 4,
-                    "startOffset": 146311,
-                    "endColumn": 95,
-                    "endOffset": 146402
+                    "startOffset": 146247,
+                    "endLine": 2054,
+                    "endColumn": 12,
+                    "endOffset": 146354
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7861,9 +7826,9 @@
                 "to": {
                     "startLine": 2055,
                     "startColumn": 4,
-                    "startOffset": 146407,
-                    "endColumn": 74,
-                    "endOffset": 146477
+                    "startOffset": 146359,
+                    "endColumn": 85,
+                    "endOffset": 146440
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7873,9 +7838,9 @@
                 "to": {
                     "startLine": 2056,
                     "startColumn": 4,
-                    "startOffset": 146482,
-                    "endColumn": 69,
-                    "endOffset": 146547
+                    "startOffset": 146445,
+                    "endColumn": 103,
+                    "endOffset": 146544
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7885,9 +7850,9 @@
                 "to": {
                     "startLine": 2057,
                     "startColumn": 4,
-                    "startOffset": 146552,
-                    "endColumn": 87,
-                    "endOffset": 146635
+                    "startOffset": 146549,
+                    "endColumn": 95,
+                    "endOffset": 146640
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7897,10 +7862,21 @@
                 "to": {
                     "startLine": 2058,
                     "startColumn": 4,
-                    "startOffset": 146640,
-                    "endLine": 2059,
-                    "endColumn": 12,
-                    "endOffset": 146753
+                    "startOffset": 146645,
+                    "endColumn": 74,
+                    "endOffset": 146715
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2059,
+                    "startColumn": 4,
+                    "startOffset": 146720,
+                    "endColumn": 69,
+                    "endOffset": 146785
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7910,48 +7886,48 @@
                 "to": {
                     "startLine": 2060,
                     "startColumn": 4,
-                    "startOffset": 146758,
-                    "endLine": 2061,
-                    "endColumn": 12,
-                    "endOffset": 146857
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2062,
-                    "startColumn": 4,
-                    "startOffset": 146862,
-                    "endLine": 2063,
-                    "endColumn": 12,
-                    "endOffset": 146961
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2064,
-                    "startColumn": 4,
-                    "startOffset": 146966,
-                    "endLine": 2065,
-                    "endColumn": 12,
-                    "endOffset": 147087
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2066,
-                    "startColumn": 4,
-                    "startOffset": 147092,
+                    "startOffset": 146790,
                     "endColumn": 87,
-                    "endOffset": 147175
+                    "endOffset": 146873
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2061,
+                    "startColumn": 4,
+                    "startOffset": 146878,
+                    "endLine": 2062,
+                    "endColumn": 12,
+                    "endOffset": 146991
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2063,
+                    "startColumn": 4,
+                    "startOffset": 146996,
+                    "endLine": 2064,
+                    "endColumn": 12,
+                    "endOffset": 147095
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2065,
+                    "startColumn": 4,
+                    "startOffset": 147100,
+                    "endLine": 2066,
+                    "endColumn": 12,
+                    "endOffset": 147199
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7961,21 +7937,10 @@
                 "to": {
                     "startLine": 2067,
                     "startColumn": 4,
-                    "startOffset": 147180,
-                    "endColumn": 107,
-                    "endOffset": 147283
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2068,
-                    "startColumn": 4,
-                    "startOffset": 147288,
-                    "endColumn": 99,
-                    "endOffset": 147383
+                    "startOffset": 147204,
+                    "endLine": 2068,
+                    "endColumn": 12,
+                    "endOffset": 147325
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7985,9 +7950,9 @@
                 "to": {
                     "startLine": 2069,
                     "startColumn": 4,
-                    "startOffset": 147388,
-                    "endColumn": 89,
-                    "endOffset": 147473
+                    "startOffset": 147330,
+                    "endColumn": 87,
+                    "endOffset": 147413
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -7997,9 +7962,9 @@
                 "to": {
                     "startLine": 2070,
                     "startColumn": 4,
-                    "startOffset": 147478,
-                    "endColumn": 109,
-                    "endOffset": 147583
+                    "startOffset": 147418,
+                    "endColumn": 107,
+                    "endOffset": 147521
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8009,9 +7974,9 @@
                 "to": {
                     "startLine": 2071,
                     "startColumn": 4,
-                    "startOffset": 147588,
-                    "endColumn": 83,
-                    "endOffset": 147667
+                    "startOffset": 147526,
+                    "endColumn": 99,
+                    "endOffset": 147621
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8021,9 +7986,9 @@
                 "to": {
                     "startLine": 2072,
                     "startColumn": 4,
-                    "startOffset": 147672,
-                    "endColumn": 101,
-                    "endOffset": 147769
+                    "startOffset": 147626,
+                    "endColumn": 89,
+                    "endOffset": 147711
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8033,9 +7998,9 @@
                 "to": {
                     "startLine": 2073,
                     "startColumn": 4,
-                    "startOffset": 147774,
-                    "endColumn": 83,
-                    "endOffset": 147853
+                    "startOffset": 147716,
+                    "endColumn": 109,
+                    "endOffset": 147821
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8045,9 +8010,9 @@
                 "to": {
                     "startLine": 2074,
                     "startColumn": 4,
-                    "startOffset": 147858,
-                    "endColumn": 53,
-                    "endOffset": 147907
+                    "startOffset": 147826,
+                    "endColumn": 83,
+                    "endOffset": 147905
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8057,9 +8022,9 @@
                 "to": {
                     "startLine": 2075,
                     "startColumn": 4,
-                    "startOffset": 147912,
-                    "endColumn": 63,
-                    "endOffset": 147971
+                    "startOffset": 147910,
+                    "endColumn": 101,
+                    "endOffset": 148007
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8069,9 +8034,9 @@
                 "to": {
                     "startLine": 2076,
                     "startColumn": 4,
-                    "startOffset": 147976,
-                    "endColumn": 105,
-                    "endOffset": 148077
+                    "startOffset": 148012,
+                    "endColumn": 83,
+                    "endOffset": 148091
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8081,9 +8046,9 @@
                 "to": {
                     "startLine": 2077,
                     "startColumn": 4,
-                    "startOffset": 148082,
-                    "endColumn": 109,
-                    "endOffset": 148187
+                    "startOffset": 148096,
+                    "endColumn": 53,
+                    "endOffset": 148145
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8093,9 +8058,9 @@
                 "to": {
                     "startLine": 2078,
                     "startColumn": 4,
-                    "startOffset": 148192,
-                    "endColumn": 83,
-                    "endOffset": 148271
+                    "startOffset": 148150,
+                    "endColumn": 63,
+                    "endOffset": 148209
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8105,9 +8070,9 @@
                 "to": {
                     "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 148276,
-                    "endColumn": 119,
-                    "endOffset": 148391
+                    "startOffset": 148214,
+                    "endColumn": 105,
+                    "endOffset": 148315
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
@@ -8117,23 +8082,46 @@
                 "to": {
                     "startLine": 2080,
                     "startColumn": 4,
-                    "startOffset": 148396,
-                    "endLine": 2081,
-                    "endColumn": 12,
-                    "endOffset": 148491
+                    "startOffset": 148320,
+                    "endColumn": 109,
+                    "endOffset": 148425
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2081,
+                    "startColumn": 4,
+                    "startOffset": 148430,
+                    "endColumn": 83,
+                    "endOffset": 148509
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 2082,
                     "startColumn": 4,
-                    "startOffset": 148496,
+                    "startOffset": 148514,
+                    "endColumn": 119,
+                    "endOffset": 148629
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2083,
+                    "startColumn": 4,
+                    "startOffset": 148634,
                     "endLine": 2084,
                     "endColumn": 12,
-                    "endOffset": 148652
+                    "endOffset": 148729
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8143,10 +8131,10 @@
                 "to": {
                     "startLine": 2085,
                     "startColumn": 4,
-                    "startOffset": 148657,
-                    "endLine": 2091,
+                    "startOffset": 148734,
+                    "endLine": 2087,
                     "endColumn": 12,
-                    "endOffset": 149067
+                    "endOffset": 148890
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8154,12 +8142,12 @@
             },
             {
                 "to": {
-                    "startLine": 2092,
+                    "startLine": 2088,
                     "startColumn": 4,
-                    "startOffset": 149072,
-                    "endLine": 2095,
+                    "startOffset": 148895,
+                    "endLine": 2094,
                     "endColumn": 12,
-                    "endOffset": 149274
+                    "endOffset": 149305
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8167,12 +8155,12 @@
             },
             {
                 "to": {
-                    "startLine": 2096,
+                    "startLine": 2095,
                     "startColumn": 4,
-                    "startOffset": 149279,
+                    "startOffset": 149310,
                     "endLine": 2098,
                     "endColumn": 12,
-                    "endOffset": 149433
+                    "endOffset": 149512
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8182,10 +8170,10 @@
                 "to": {
                     "startLine": 2099,
                     "startColumn": 4,
-                    "startOffset": 149438,
-                    "endLine": 2107,
+                    "startOffset": 149517,
+                    "endLine": 2101,
                     "endColumn": 12,
-                    "endOffset": 149998
+                    "endOffset": 149671
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8193,12 +8181,12 @@
             },
             {
                 "to": {
-                    "startLine": 2108,
+                    "startLine": 2102,
                     "startColumn": 4,
-                    "startOffset": 150003,
-                    "endLine": 2113,
+                    "startOffset": 149676,
+                    "endLine": 2110,
                     "endColumn": 12,
-                    "endOffset": 150359
+                    "endOffset": 150236
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8206,12 +8194,12 @@
             },
             {
                 "to": {
-                    "startLine": 2114,
+                    "startLine": 2111,
                     "startColumn": 4,
-                    "startOffset": 150364,
+                    "startOffset": 150241,
                     "endLine": 2116,
                     "endColumn": 12,
-                    "endOffset": 150488
+                    "endOffset": 150597
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8221,10 +8209,10 @@
                 "to": {
                     "startLine": 2117,
                     "startColumn": 4,
-                    "startOffset": 150493,
-                    "endLine": 2125,
+                    "startOffset": 150602,
+                    "endLine": 2119,
                     "endColumn": 12,
-                    "endOffset": 151155
+                    "endOffset": 150726
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8232,12 +8220,12 @@
             },
             {
                 "to": {
-                    "startLine": 2126,
+                    "startLine": 2120,
                     "startColumn": 4,
-                    "startOffset": 151160,
-                    "endLine": 2129,
+                    "startOffset": 150731,
+                    "endLine": 2128,
                     "endColumn": 12,
-                    "endOffset": 151335
+                    "endOffset": 151393
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
@@ -8245,12 +8233,25 @@
             },
             {
                 "to": {
-                    "startLine": 2130,
+                    "startLine": 2129,
                     "startColumn": 4,
-                    "startOffset": 151340,
-                    "endLine": 2137,
+                    "startOffset": 151398,
+                    "endLine": 2132,
                     "endColumn": 12,
-                    "endOffset": 151940
+                    "endOffset": 151573
+                },
+                "from": {
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2133,
+                    "startColumn": 4,
+                    "startOffset": 151578,
+                    "endLine": 2140,
+                    "endColumn": 12,
+                    "endOffset": 152178
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values\\values.xml"
