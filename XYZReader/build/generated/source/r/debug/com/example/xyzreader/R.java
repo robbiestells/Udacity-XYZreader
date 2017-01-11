@@ -2381,12 +2381,12 @@ containing a value of this type.
         public static final int windowNoTitle=0x7f010031;
     }
     public static final class bool {
-        public static final int abc_action_bar_embed_tabs=0x7f090001;
+        public static final int abc_action_bar_embed_tabs=0x7f090000;
         public static final int abc_allow_stacked_button_bar=0x7f090002;
         public static final int abc_config_actionMenuItemAllCaps=0x7f090003;
         public static final int abc_config_closeDialogWhenTouchOutside=0x7f090004;
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090005;
-        public static final int detail_is_card=0x7f090000;
+        public static final int detail_is_card=0x7f090001;
     }
     public static final class color {
         public static final int abc_background_cache_hint_selector_material_dark=0x7f0c0051;

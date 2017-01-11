@@ -7,27 +7,20 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 44,
-                    "endOffset": 95
+                    "endColumn": 69,
+                    "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 146,
-                        "endColumn": 44,
-                        "endOffset": 186
-                    }
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-land\\values-land.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 100,
-                    "endColumn": 69,
-                    "endOffset": 165
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-land\\values-land.xml"
@@ -37,9 +30,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 170,
-                    "endColumn": 63,
-                    "endOffset": 229
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-land\\values-land.xml"
@@ -49,9 +42,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 234,
-                    "endColumn": 70,
-                    "endOffset": 300
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-land\\values-land.xml"
@@ -61,21 +54,21 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 305,
-                    "endColumn": 67,
-                    "endOffset": 368
+                    "startOffset": 328,
+                    "endColumn": 57,
+                    "endOffset": 381
                 },
                 "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-land\\values-land.xml"
+                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 373,
-                    "endColumn": 57,
-                    "endOffset": 426
+                    "startOffset": 386,
+                    "endColumn": 51,
+                    "endOffset": 433
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml"
@@ -85,22 +78,10 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 431,
-                    "endColumn": 51,
-                    "endOffset": 478
-                },
-                "from": {
-                    "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 483,
-                    "endLine": 12,
+                    "startOffset": 438,
+                    "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 660
+                    "endOffset": 615
                 },
                 "from": {
                     "file": "C:\\Users\\rsteller\\Desktop\\ud867-master\\feed\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\values-land\\values-land.xml"

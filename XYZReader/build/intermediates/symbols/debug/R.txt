@@ -339,12 +339,12 @@ int attr windowFixedWidthMinor 0x7f010036
 int attr windowMinWidthMajor 0x7f010038
 int attr windowMinWidthMinor 0x7f010039
 int attr windowNoTitle 0x7f010031
-int bool abc_action_bar_embed_tabs 0x7f090001
+int bool abc_action_bar_embed_tabs 0x7f090000
 int bool abc_allow_stacked_button_bar 0x7f090002
 int bool abc_config_actionMenuItemAllCaps 0x7f090003
 int bool abc_config_closeDialogWhenTouchOutside 0x7f090004
 int bool abc_config_showMenuShortcutsWhenKeyboardPresent 0x7f090005
-int bool detail_is_card 0x7f090000
+int bool detail_is_card 0x7f090001
 int color abc_background_cache_hint_selector_material_dark 0x7f0c0051
 int color abc_background_cache_hint_selector_material_light 0x7f0c0052
 int color abc_btn_colored_borderless_text_material 0x7f0c0053
